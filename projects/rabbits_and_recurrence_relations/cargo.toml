@@ -1,0 +1,10 @@
+[package]
+name = "rabbits_and_recurrence_relations"
+version = "0.1.0"
+
+[lib]
+name = "rabbits_and_recurrence_relations"
+path = "src/lib.rs"
+
+[dependencies]
+itertools = "^0.11"
