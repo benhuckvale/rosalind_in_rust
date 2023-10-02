@@ -1,0 +1,4 @@
+# Ignore trivially compiled binary files (from directly invoking rustc) in the top directory
+*
+!/**/
+!*.*
